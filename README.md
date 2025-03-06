@@ -1,4 +1,4 @@
-<h1>Hello I'm David, an <a href="https://www.linkedin.com/in/dchill007/">IT Specialist</a>☺</h1>
+<h1>Hello I'm David, an <a href="https://www.linkedin.com/in/dchill007/">IT Specialist</a>😁</h1>
 
 # 💾 My Various Information Technology Projects 💻
 
