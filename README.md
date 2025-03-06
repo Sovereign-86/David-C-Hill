@@ -12,7 +12,7 @@
 - <b>Microsoft Azure</b>
 
   - [Setting Up Active Directory using Azure VMs](https://github.com/Sovereign-86/Configuring-Active-Directories)
-  - [[Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Sovereign-86/Azure-Network-Protocals)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/Sovereign-86/Azure-Network-Protocals)
 
     
 - <b>Virtual Private Network</b>
